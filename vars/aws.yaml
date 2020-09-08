@@ -1,0 +1,126 @@
+---
+have_any_questions: Have any questions?
+phone_number: "+(91) 8197408582"
+email_address: basil1987@gmail.com
+login_title: Training Door Login
+page_title: DevOps Door
+navigation_items:
+- title: Home
+  hrefValue: index
+- title: FAQ
+  hrefValue: "#"
+- title: Page
+  hrefValue: "#"
+- title: Contact
+  hrefValue: contact
+- title: Courses
+  hrefValue: course_home
+navigation_path_view:
+- title: Home
+  hrefValue: index
+- title: Courses
+  hrefValue: course_home
+- title: Details
+  '': ''
+lecture_title: 'AWS Project Training with Ansible Automation '
+lecture_image_path: http://www.devopsdoor.com/images/aws.jpg
+lecture_basic_details:
+- title: Teacher
+  subTitle: Basil Varghese
+  hyperlink: http://www.devopsdoor.com/aws#
+- title: Reviews
+  reviewCount: 4
+  hyperlink: http://www.devopsdoor.com/aws#
+- title: Categories
+  subTitle: Cloud Computing
+  hyperlink: http://www.devopsdoor.com/aws#
+features:
+  title: Course Feature
+  courseFeatures:
+  - title: Duration
+    value: 1 month
+  - title: Lectures
+    value: 26 Lectures
+  - title: Hours
+    value: 45 Hours
+teacher_info:
+  name: Basil Varghese
+  role: CTO of RavelGrid LLP
+  general_info:
+  - title: 'Average Rating:'
+    description: '4.9'
+  - title: 'Review:'
+    description: '140'
+  - title: 'Quizzes:'
+    description: '600'
+  teacher_description: Basil Varghese is an IT expert with 10+ years of IT experience
+    and 5 years of Training experience in DevOps and Cloud. He is the CTO and Co-Founder
+    of RavelGrid Technologies LLP, which is a startup that provide private cloud and
+    DevOps solutions to its partner network. Before Starting his own venture, Basil
+    worked as a Senior Liaison in Akamai Technologies, one of the biggest internet
+    company. In his 10+ years of career, he worked for many startups and big companies
+    and have an excellent technical and soft skills
+course_tabs:
+- Description
+- Curriculum
+- Reviews
+course_tabs_detail:
+  tab1:
+    details_section1:
+      title: AWS Project Training with Ansible Automation
+      subtitle: This ia complete AWS program which come along with a free project.
+        This training includes all required pre-requisites such as Linux Administration
+        and Networking, Scripting - Bash and Python. In fact it covers everything
+        a cloud engineer need to know. This is a working profile for quick job seekers
+        (and if interested, your first step towards switching your career to a DevOps
+        Engineer)
+    details_section2:
+      title: Requirements
+      subtitle:
+      - You have 1+ years of experience into IT and software applications.
+      - You have completed the pre-requisites training conducted by Basil Varghese
+    details_section3:
+      title: Who should learn this course?
+      subtitle: This program is suited for every Engineers working in IT industry.
+        You understand the great freedom and oppurtunities which cloud computing provides
+        that make your infrastructure more practical to meet software requirements
+        and traffic demands.
+    details_section4:
+    - question: I have a very little experience (or a Fresher) in IT. Is this course
+        suitable for me? ?
+      answer: Yes, You need to complete the prerequisites training, a 2 weeks free
+        program. You are eligible to start with this Training once you completed the
+        prerequisites. If you are a fresher to IT, please take our 90 hours full DevOps
+        and AWS program
+    - question: Is the trainer reachable offline, whenever I need help? ?
+      answer: Yes. The offline support will be available during the day time, preferrably
+        in the first half. You will have unconrolled access to the trainer along with
+        his phone numbers and email IDs.
+    - question: Do you provide course materials??
+      answer: Once you enrolled to the training, you will get unlimitted long term
+        access to a training portal where you will find all course maretials such
+        as Presentations, Course Assignments, Project description, Trainer notes and
+        Major tutorials etc. You will continue to get access to this portal even after
+        the course completion. This allows you to complete the assigned projects with
+        help of trainer. There is a chat option available in the portal too, to communicate
+        with trainer and other students
+    - question: Do you provide job assistance??
+      answer: As of now, the job assistance is purely based on performance. Our trainers
+        have more than 10 years of experience and they get lots of enquiries from
+        colligues/companies. We assist the students purely based on performance which
+        inlcude status of their attendance, project and assignment completions etc.
+        So far, all our students who successfully completed all projects already found
+        their way in their career
+    - question: Does the trainer help preparing for interviews and resumes ?
+      answer: Yes, trainer will assist you at end of the training with your resume
+        preparation and interview patterns
+    - question: What are the prerequisites for this training ?
+      answer: A basic understanding about softwares and practices, knowledge into
+        Networking concepts and Linux Administration are the mandatory prerequisites.
+        Good knowledge in scripting (preferrably Python and Bash) and automation is
+        highly recommended too. If you are unsure about these prerequisites, please
+        consider taking our 90 hours full devops and aws program.
+    - question: Do you offer any project to understand the real time scenarios??
+      answer: This course come along with a free project prepared by your trainer
+        (who will have atleast 10 years of work experience) completely based on work
+        scenarios. It means you get a chance to work on loads of real time scenarios.
